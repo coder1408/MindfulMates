@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
+import Quiz from './Quiz';
 
-
-function App(){
-    return <h1>Hello mello</h1>
+function App() {
+  return <Quiz />;
 }
 
 export default App;
