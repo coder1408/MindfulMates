@@ -17,7 +17,7 @@ function Quiz() {
 
   return (
     <div>
-      <h1>Mental Health Quiz</h1>
+      <h1>MindfulMates</h1>
       <form onSubmit={handleSubmit}>
 {/* Question 1 */}
 <div>
