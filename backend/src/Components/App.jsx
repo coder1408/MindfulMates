@@ -1,8 +1,15 @@
-import React from "react";
-
-
-function App(){
-    return <h1>Hello mello</h1>
+import React from 'react';
+import Quiz from './Quiz';
+import {Login} from './login'
+import getlog from './login'
+function App(props) {
+  
+  return (
+    <div>
+      <Quiz/>
+    </div>
+   
+  )
 }
 
 export default App;
