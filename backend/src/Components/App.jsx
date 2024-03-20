@@ -6,7 +6,7 @@ function App(props) {
   
   return (
     <div>
-      <Login/>
+      <Quiz/>
     </div>
    
   )
